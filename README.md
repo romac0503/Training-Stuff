@@ -12,9 +12,9 @@ And I have some OpenGL specific tasks which I wrote as a training for myself. Th
 in the solution.
 For the OpenGL part you need to have the references for some additional libs in your solution. 
 
-# for the Glut libs I created in my SDK-directory a folder called CG_GLUT_DIR in which includes the specific libs 
-# further in my SDK-directory you need a reference called CG_GLEW_DIR 
-# next in the SDK-directory you need CG_GLFW_DIR 
+for the Glut libs I created in my SDK-directory a folder called CG_GLUT_DIR in which includes the specific libs;
+further in my SDK-directory you need a reference called CG_GLEW_DIR;
+next in the SDK-directory you need CG_GLFW_DIR;
 
 for better understanding with the exercises and how to set the path-variables to these libs have 
 a look at http://www.videotutorialsrock.com/index.php
