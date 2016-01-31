@@ -1,0 +1,6 @@
+D:\OpenGL_Training\OpenGL_Training\Composed_Delegates\bin\Debug\Composed_Delegates.exe.config
+D:\OpenGL_Training\OpenGL_Training\Composed_Delegates\bin\Debug\Composed_Delegates.exe
+D:\OpenGL_Training\OpenGL_Training\Composed_Delegates\bin\Debug\Composed_Delegates.pdb
+D:\OpenGL_Training\OpenGL_Training\Composed_Delegates\obj\Debug\Composed_Delegates.exe
+D:\OpenGL_Training\OpenGL_Training\Composed_Delegates\obj\Debug\Composed_Delegates.pdb
+D:\OpenGL_Training\OpenGL_Training\Composed_Delegates\obj\Debug\Composed_Delegates.csprojResolveAssemblyReference.cache
