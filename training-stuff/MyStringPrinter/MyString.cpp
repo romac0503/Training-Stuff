@@ -57,7 +57,7 @@ void MyString::clear()
 		size = 0;
 	}
 	else {
-		cerr << "das array ist schon leer" << endl;
+		cerr << "this array is already empty!" << endl;
 	}
 }
 
