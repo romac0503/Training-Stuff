@@ -1,7 +1,7 @@
 # training-stuff
 C++, C# and OpenGL Exercises
 
-These are some Exercises I did mainly with C++.
+These are some Exercises I did mainly with C++ with VS2013.
 The Exercises are in the directories called "Uebungsblatt_XX". I added a .pdf file in the Exercises_sheet directory to have a better
 understanding what these Exercises are all about.
 
