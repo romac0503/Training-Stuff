@@ -15,6 +15,8 @@ For the OpenGL part you need to have the references set correctly for some addit
 for the Glut libs I created in my SDK-directory a folder called CG_GLUT_DIR in which includes the specific libs;
 further in my SDK-directory you need a reference called CG_GLEW_DIR;
 next in the SDK-directory you need CG_GLFW_DIR;
+additionally I used the visual leak detector to search for possible memory leaks. I made an path variable called
+VLD_DIR which should be set correctly in your solution.
 
 for better understanding with the exercises and how to set the path-variables to these libs have 
 a look at http://www.videotutorialsrock.com/index.php
